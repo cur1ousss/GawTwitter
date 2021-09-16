@@ -1,4 +1,4 @@
-# giveaway-hunter
+# Gaw-hunter
 Python script for hunting giveaways on twitter
 
 https://github.com/ShiniM0d0ri/giveaway-hunter
